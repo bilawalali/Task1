@@ -38,6 +38,8 @@ npm install
 
 # How to Run Project
 
+* Run following command inside app terminal or in command prompt.
+
 ```
 npm run test
 
